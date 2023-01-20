@@ -1,0 +1,23 @@
+.banner-1 {
+    background: url('images/banner.png');
+    background-size: cover;
+    height: 584px;
+}
+
+.check {
+    height: 20px;
+}
+
+.card-hover:hover {
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    color: blanchedalmond;
+}
+
+.card-box {
+    background: #FFFFFF;
+    box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    width:auto;
+}
